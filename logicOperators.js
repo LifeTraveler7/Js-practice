@@ -23,6 +23,7 @@ if (!age >=14 || !age <=90) {
 }*/
 
 // Задача 3
+/*
 let login = prompt("Введите Логин", 'Админ');
     if ( login == null || login === '') {
         alert('Отменено')
@@ -39,3 +40,12 @@ let login = prompt("Введите Логин", 'Админ');
     } else {
         alert('Я вас не знаю')
     }
+*/
+
+// Задача 4 (на ?? и ??=)
+
+let num1 = 10;
+    num2 = 20;
+    result;
+
+    result ??= num1 ?? num2;

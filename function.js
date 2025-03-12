@@ -22,7 +22,7 @@ alert(min(1,3));
 */
 
 // 3
-"use strict"
+/*"use strict"
 function pow(x,n){
     let result = x**n;
     return result;
@@ -33,3 +33,5 @@ let n = prompt('Введите значение y');
 if (n >=1 && n%1 == 0){
 alert(pow(x,n));
 } else alert("Введи нормальное число");
+ 
+*/

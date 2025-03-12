@@ -43,9 +43,10 @@ let login = prompt("Введите Логин", 'Админ');
 */
 
 // Задача 4 (на ?? и ??=)
-
+/*
 let num1 = 10;
     num2 = 20;
     result;
 
     result ??= num1 ?? num2;
+    */
